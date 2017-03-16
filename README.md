@@ -27,6 +27,17 @@ Add the package to your `composer.json` and run `composer update`.
 
 ### Laravel 5
 
+#### 5.4
+
+```json
+{
+    "require": {
+        "djade007/neoeloquent": "1.4.x-dev"
+    }
+}
+```
+
+
 #### 5.3
 
 ```json
